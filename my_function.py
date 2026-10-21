@@ -10,3 +10,7 @@ def loss_emulator(LGD, PD, EAD):
 def calc_average(a, b, c):
     average = (a + b + c) / 3
     print(average)
+
+    
+def typing_test():
+    print('try this: The lazy dwarf jumped over the running frog')
